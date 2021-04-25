@@ -7,6 +7,8 @@ namespace Pract4_08
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Colores");
         }
     }
 }
