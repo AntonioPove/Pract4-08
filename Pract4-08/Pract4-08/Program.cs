@@ -9,6 +9,8 @@ namespace Pract4_08
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Colores");
+
+            Console.WriteLine("Rotación de las piezas");
         }
     }
 }

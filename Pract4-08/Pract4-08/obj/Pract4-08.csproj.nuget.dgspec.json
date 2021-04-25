@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\Pract4-08.csproj": {}
+    "C:\\Users\\laura\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\Pract4-08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\Pract4-08.csproj": {
+    "C:\\Users\\laura\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\Pract4-08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\Pract4-08.csproj",
+        "projectUniqueName": "C:\\Users\\laura\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\Pract4-08.csproj",
         "projectName": "Pract4-08",
-        "projectPath": "C:\\Users\\anton\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\Pract4-08.csproj",
-        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\obj\\",
+        "projectPath": "C:\\Users\\laura\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\Pract4-08.csproj",
+        "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laura\\Desktop\\Pract4-08\\Pract4-08\\Pract4-08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
